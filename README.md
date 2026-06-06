@@ -43,8 +43,9 @@ backend my_servers
 
 https://skrin/Zadanie1.png
 
-##Задание 2. Weighted Round Robin на 7 уровне
-###Конфигурационный файл HAProxy
+## Задание 2. Weighted Round Robin на 7 уровне
+
+### Конфигурационный файл HAProxy
 
 ```
     global
@@ -86,7 +87,7 @@ backend default_servers
     server default 127.0.0.1:9081 check
 ```
 
-Результат с доменом example.local
+## Результат с доменом example.local
 
 9 запросов распределяются с весами 2:3:4:
 
