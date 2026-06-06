@@ -41,8 +41,8 @@ backend my_servers
 
 Запросы чередуются между серверами:
 
-!(skrin/Zadanie1.png)
 
+(https://github.com/evgen1911-prog/HAProxy/blob/main/skrin/Zadanie1.png?raw=true)
 
 ## Задание 2. Weighted Round Robin на 7 уровне
 
