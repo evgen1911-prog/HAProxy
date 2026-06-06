@@ -41,7 +41,8 @@ backend my_servers
 
 Запросы чередуются между серверами:
 
-https://skrin/Zadanie1.png
+!(skrin/Zadanie1.png)
+
 
 ## Задание 2. Weighted Round Robin на 7 уровне
 
