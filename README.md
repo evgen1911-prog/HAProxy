@@ -98,12 +98,16 @@ backend default_servers
 
 9 запросов распределяются с весами 2:3:4:
 
-https://skrin/Zadanie2.png
+
 Результат без домена example.local
+
+![curl](skrin/Zadanie2.png)
 
 Запрос без домена уходит на default_server:
 
-https://skrin/Zadanie2.2.png
+![curl](skrin/Zadanie2.2.png)
+
 Статистика с весами
 
-https://skrin/Zadanie2.3.png
+![curl](skrin/Zadanie2.3.png)
+
