@@ -44,6 +44,12 @@ backend my_servers
 
 ![curl](skrin/Zadanie1.png)
 
+
+Статистика HAProxy
+
+![curl](skrin/Zadanie1.1.png)
+
+
 ## Задание 2. Weighted Round Robin на 7 уровне
 
 ### Конфигурационный файл HAProxy
