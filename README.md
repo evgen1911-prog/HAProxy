@@ -41,13 +41,13 @@ backend my_servers
 
 Запросы чередуются между серверами:
 
-https://skrin/Zadanie1.png
+https://skrin/Zadanie1.png```
 
 ##Задание 2. Weighted Round Robin на 7 уровне
 ###Конфигурационный файл HAProxy
 
 
-global
+```global
     log /dev/log local0
     user haproxy
     group haproxy
@@ -83,7 +83,7 @@ backend weighted_servers
 
 backend default_servers
     mode http
-    server default 127.0.0.1:9081 check
+    server default 127.0.0.1:9081 check```
 
 Результат с доменом example.local
 
